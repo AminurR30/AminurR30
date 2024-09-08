@@ -16,21 +16,45 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aminurr30&show_icons=true&locale=en" alt="aminurr30" /></p>
 <div align="center">
-  
+
 ## Here is a random joke that'll make you laugh!
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-<br><details><summary align="left"> </samp></summary><p align ="centre"> Refresh page to load New joke</p></details>
+
+<details>
+  <summary align="left"></summary>
+  <p align="center">Refresh the page to load a new joke</p>
+</details>
+
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aminurr30&" alt="aminurr30" /></p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminurr30&" alt="aminurr30" />
+    </td>
+    <td align="center">
+      <img alt="Coding" width="450" src="https://github.com/AminurR30/AminurR30/blob/main/heavy-coder.gif" />
+    </td>
+    
+  </tr>
+</table>
+
 
 <hr>
+
 <p align="center">
-  <i>Connect with me! </i>
+  <i>Connect with me!</i>
   <br><br>
-<a target="_blank" href="https://www.linkedin.com/in/aminurr30/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:rahmanaminur3003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://x.com/AminurR30/"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-<br>
+  <a target="_blank" href="https://www.linkedin.com/in/aminurr30/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  </a>
+  <a target="_blank" href="mailto:rahmanaminur3003@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+  <a target="_blank" href="https://x.com/AminurR30/">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
+  </a>
 </p>
+
 
