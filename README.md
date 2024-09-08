@@ -7,11 +7,14 @@
 
 - 🌱 I’m currently learning **Full-Stack Web Development**
 
-- 📫 How to reach me **rahmanaminur3003@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aminurr30/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aminurr30" height="30" width="40" /></a>
+<hr>
+<p align="center">
+  <i>Connect with me! </i>
+  <br><br>
+<a target="_blank" href="https://www.linkedin.com/in/aminurr30/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:rahmanaminur3003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://x.com/AminurR30/"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<br>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
