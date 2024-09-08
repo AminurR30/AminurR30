@@ -34,7 +34,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminurr30&" alt="aminurr30" />
     </td>
     <td align="center">
-      <img alt="Coding" width="450" src="https://github.com/AminurR30/AminurR30/blob/main/heavy-coder.gif" />
+      <img alt="Coding" width="400" src="https://github.com/AminurR30/AminurR30/blob/main/heavy-coder.gif" />
     </td>
     
   </tr>
