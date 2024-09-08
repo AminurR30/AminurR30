@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aminur Rahman</h1>
+<h1 align="center" >Hi 👋, I'm Aminur Rahman</h1>
 <h3 align="center">I'm a Final year CSE(AIML) student from UEM,Kolkata</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminurr30&label=Profile%20views&color=0e75b6&style=flat" alt="aminurr30" /> </p>
