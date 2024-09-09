@@ -1,13 +1,16 @@
-<h1 align="center" >Hi 👋, I'm Aminur Rahman</h1>
+<h1 align="center"> Hi 🙋‍♂, I'm Aminur Rahman</h1>
+
 <h3 align="center">I'm a Final year CSE(AIML) student from UEM,Kolkata</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminurr30&label=Profile%20views&color=0e75b6&style=flat" alt="aminurr30" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aminurr30" alt="aminurr30" /></a> </p>
 
-- 🌱 I’m currently learning **Full-Stack Web Development**
 
-<h3 align="left">Languages and Tools:</h3>
+🌱   I’m currently learning **Full-Stack Web Development**
+
+## 🚀 Languages and Tools:
+
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
