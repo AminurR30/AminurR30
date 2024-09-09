@@ -1,9 +1,9 @@
 <h1 align="center"> Hi 🙋🏻, I'm Aminur Rahman</h1>
 
 <h3 align="center">I'm a Final year CSE(AIML) student from UEM,Kolkata</h3>
+<br>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aminurr30&theme=gruvbox" alt="aminurr30" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aminurr30&theme=gruvbox" alt="aminurr30" /></a> </p>
 
 
 🌱   I’m currently learning **Full-Stack Web Development**
