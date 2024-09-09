@@ -2,9 +2,8 @@
 
 <h3 align="center">I'm a Final year CSE(AIML) student from UEM,Kolkata</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aminurr30&label=Profile%20views&color=0e75b6&style=flat" alt="aminurr30" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aminurr30" alt="aminurr30" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aminurr30&theme=gruvbox" alt="aminurr30" /></a> </p>
 
 
 🌱   I’m currently learning **Full-Stack Web Development**
@@ -85,7 +84,10 @@
     
   </tr>
 </table>
-
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{aminurr30}/count.svg" /></p> 
+<br></div>
 
 <hr>
 
