@@ -51,14 +51,15 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aminurr30&show_icons=true&locale=en&layout=compact" alt="aminurr30's Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aminurr30&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aminurr30's Top Languages" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=aminurr30&show_icons=true&locale=en" alt="aminurr30's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=aminurr30&show_icons=true&locale=en&theme=tokyonight" alt="aminurr30's GitHub Stats" />
       </td>
     </tr>
   </table>
 </div>
+
 
 <div align="center">
   
