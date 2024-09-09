@@ -80,7 +80,8 @@
 
 </div>
 
-<table>
+
+<div align="center"><table>
   <tr>
     <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminurr30&theme=tokyonight" alt="aminurr30" />
@@ -88,9 +89,10 @@
     <td align="center">
       <img alt="Coding" width="400" src="https://github.com/AminurR30/AminurR30/blob/main/heavy-coder.gif" />
     </td>
-    
   </tr>
-</table>
+</table></div>
+
+
 <div align="center">
 <br><p align="centre"><b>Profile Views</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{aminurr30}/count.svg" /></p> 
