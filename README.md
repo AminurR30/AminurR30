@@ -58,7 +58,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aminurr30&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aminurr30's Top Languages" />
+        <img width="200%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aminurr30&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aminurr30's Top Languages" />
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=aminurr30&show_icons=true&locale=en&theme=tokyonight" alt="aminurr30's GitHub Stats" />
@@ -85,7 +85,8 @@
 <div align="center"><table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminurr30&theme=tokyonight" alt="aminurr30" />
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=aminurr30&theme=tokyonight" />
+<!--       <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminurr30&theme=tokyonight" alt="aminurr30" /> -->
     </td>
     <td align="center">
       <img alt="Coding" width="400" src="https://github.com/AminurR30/AminurR30/blob/main/heavy-coder.gif" />
